@@ -1,58 +1,20 @@
-# 🌹 A Letter of Roses
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-A **romantic, interactive Valentine’s Day website** created as a digital love letter for someone special.  
-This project blends **emotion, design, and interactivity** — featuring flowers, heartfelt messages, music, and surprises.
+# Run and deploy your AI Studio app
 
----
+This contains everything you need to run your app locally.
 
-## 💖 About the Project
+View your app in AI Studio: https://ai.studio/apps/temp/1
 
-**A Letter of Roses** is not just a website — it’s a personal experience.
+## Run Locally
 
-The site is designed to express love through:
-- Beautiful visuals
-- Romantic messages
-- Interactive flower animations
-- A curated love-song playlist
-- A surprise section filled with emotions
+**Prerequisites:**  Node.js
 
-Every interaction is meant to feel gentle, personal, and meaningful.
 
----
-
-## ✨ Features
-
-- 🌸 **Click-Anywhere Flower Animation**  
-  Clicking anywhere on the site generates beautiful floating flowers.
-
-- 💌 **Love Message Section**  
-  Heartfelt text expressing emotions and appreciation.
-
-- 💯 **100 Reasons “Why I Love You”**  
-  A dedicated section listing meaningful reasons.
-
-- 🖼️ **Photo Gallery**  
-  A visual memory section with aesthetic images.
-
-- 🎧 **Surprise Music Playlist**  
-  A romantic YouTube playlist embedded safely and legally.
-
-- 💖 **Valentine-Themed UI**  
-  Soft colors, smooth animations, and romantic typography.
-
-- 📱 **Fully Responsive Design**  
-  Works beautifully on mobile, tablet, and desktop.
-
----
-
-## 🛠️ Built With
-
-- **React**
-- **TypeScript**
-- **Vite**
-- **Tailwind CSS**
-- **HTML5**
-- **CSS Animations**
-- **JavaScript**
-
----
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
