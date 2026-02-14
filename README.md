@@ -56,11 +56,3 @@ Every interaction is meant to feel gentle, personal, and meaningful.
 - **JavaScript**
 
 ---
-
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/a-letter-of-roses.git
